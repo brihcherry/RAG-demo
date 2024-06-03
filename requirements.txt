@@ -1,0 +1,12 @@
+langchain
+unstructured
+"unstructured[docx]"
+"unstructured[pdf]"
+torch
+transformers
+pdf2image
+tesseract
+docx2txt
+#brew install poppler
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
